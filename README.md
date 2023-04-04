@@ -18,6 +18,8 @@ Learn something new can always be challenging however the satisfaction you feel 
 
 <img width="406" alt="Screen Shot 2023-04-04 at 4 33 59 PM" src="https://user-images.githubusercontent.com/128196586/229914874-d10e5712-096b-440c-a43b-a9b531fdc102.png">
 
+- This is the link for the webpage to view on more detail: https://heiriv.github.io/Business-engagement-strategies1/#social-media-marketing
+
 ## Credits 
 
 Awesome documents used for better understanding to develop the challenge,
