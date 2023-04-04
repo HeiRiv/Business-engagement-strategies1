@@ -13,16 +13,18 @@ Learn something new can always be challenging however the satisfaction you feel 
 
 ## Final Product
 
- 😄 Please see below a quick view of the website 😄 
+ 
+😄 Please see below a quick view of the website 😄 
+
 <img width="406" alt="Screen Shot 2023-04-04 at 4 33 59 PM" src="https://user-images.githubusercontent.com/128196586/229914874-d10e5712-096b-440c-a43b-a9b531fdc102.png">
 
 ## Credits 
 
 Awesome documents used for better understanding to develop the challenge,
 
--https://www.w3schools.com/html/html5_semantic_elements.asp
--https://www.w3schools.com/html/html_accessibility.asp
--https://meiert.com/en/blog/dry-css/
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://www.w3schools.com/html/html_accessibility.asp
+- https://meiert.com/en/blog/dry-css/
 
 ## ✔️ ✔️ ✔️
 
